@@ -1,0 +1,11 @@
+/*ignore zipped files */
+*.zip
+
+/*ignore csv files*/
+*.csv
+
+/*ignore vim swp files*/
+*.swp
+
+/*ignore ipython checkpoints*/
+.ipynb_checkpoints
